@@ -6,6 +6,11 @@
 Compose a PowerPoint presentation from a single PDF file or several image files.
 
 
+## Documentation
+
+* :bug: **For bug reports and feature requests use the [issue tracker](https://git.point-8.de/dev/friday-tasks/issues)**
+
+
 ## Quickstart
 
 You can either convert a single PDF file containing several pages or a bunch of image files.
