@@ -8,7 +8,7 @@ Compose a PowerPoint presentation from a single PDF file or several image files.
 
 ## Quickstart
 
-You can either convert a single PDF file containing several pagaes or a bunch of image files.
+You can either convert a single PDF file containing several pages or a bunch of image files.
 
 ### PDF file
 
@@ -36,16 +36,16 @@ Options:
 
 ## Setup
 
-1. Install ImageMagick. It's important to not install the newest version, but Version 6, as the newest version doesn't support all necessary bindings yet.
+* Install ImageMagick. It's important to not install the newest version, but Version 6, as the newest version doesn't support all necessary bindings yet.
 
 ```
 brew install imagemagick@6
 ```
 
-2. Set ENV
+* Set ENV
 
 ```
 export MAGICK_HOME=/usr/local/opt/imagemagick@6/
 ```
 
-3. Install **cullis** with `pip install -U .`
+* Install **cullis** with `pip install -U .`
