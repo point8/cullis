@@ -8,7 +8,7 @@ Compose a PowerPoint presentation from a single PDF file or several image files.
 
 ## Documentation
 
-* :bug: **For bug reports and feature requests use the [issue tracker](https://git.point-8.de/ccauet/cullis/issues)**
+* :bug: **For bug reports and feature requests use the [issue tracker](https://github.com/point8/cullis/issues)**
 
 
 ## Quickstart
